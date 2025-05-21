@@ -1,0 +1,3443 @@
+{
+    "assets": {
+        "D:/Job/pixi-project/raw-assets": {
+            "isFolder": true,
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372131,
+                "duration": 2.754699999999957,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372131,
+                "duration": 3.0094000000001415,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/avatar.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372131,
+                "duration": 4.590400000000045,
+                "success": true
+            },
+            "hash": "UvhvPg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/avatar.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/avatar.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/background.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372132,
+                "duration": 3.3228999999998905,
+                "success": true
+            },
+            "hash": "5GLXUQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/background.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/background.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372133,
+                "duration": 0.5509999999999309,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/cardback.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372134,
+                "duration": 2.8579000000001997,
+                "success": true
+            },
+            "hash": "YIk7cQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/cardback.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/cardback.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372134,
+                "duration": 2.3233000000000175,
+                "success": true
+            },
+            "hash": "Gi4URw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372135,
+                "duration": 1.882300000000214,
+                "success": true
+            },
+            "hash": "_cS6ng"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372135,
+                "duration": 2.783200000000079,
+                "success": true
+            },
+            "hash": "F-8Ngw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372136,
+                "duration": 2.416200000000117,
+                "success": true
+            },
+            "hash": "dQfivw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372137,
+                "duration": 2.290399999999863,
+                "success": true
+            },
+            "hash": "Xyr4VQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372137,
+                "duration": 1.8226000000001932,
+                "success": true
+            },
+            "hash": "5HlmpA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372138,
+                "duration": 1.335399999999936,
+                "success": true
+            },
+            "hash": "xl4zDw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372138,
+                "duration": 1.9843000000000757,
+                "success": true
+            },
+            "hash": "l9W4iA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372139,
+                "duration": 1.5761999999999716,
+                "success": true
+            },
+            "hash": "nA6iMQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372139,
+                "duration": 1.864799999999832,
+                "success": true
+            },
+            "hash": "zaWBcw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372139,
+                "duration": 1.5040000000001328,
+                "success": true
+            },
+            "hash": "p_IA5w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372140,
+                "duration": 1.1439000000000306,
+                "success": true
+            },
+            "hash": "9oPR3Q"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372140,
+                "duration": 1.9101000000000568,
+                "success": true
+            },
+            "hash": "9lVH"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs, precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs, precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372140,
+                "duration": 1.559099999999944,
+                "success": true
+            },
+            "hash": "Gi4URw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372141,
+                "duration": 2.0690000000001874,
+                "success": true
+            },
+            "hash": "_cS6ng"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372141,
+                "duration": 1.7183999999999742,
+                "success": true
+            },
+            "hash": "F-8Ngw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372142,
+                "duration": 1.3657000000000608,
+                "success": true
+            },
+            "hash": "dQfivw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372142,
+                "duration": 2.0549000000000888,
+                "success": true
+            },
+            "hash": "Xyr4VQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372142,
+                "duration": 1.6060999999999694,
+                "success": true
+            },
+            "hash": "5HlmpA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372143,
+                "duration": 1.978900000000067,
+                "success": true
+            },
+            "hash": "xl4zDw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372143,
+                "duration": 1.5942000000000007,
+                "success": true
+            },
+            "hash": "l9W4iA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372144,
+                "duration": 1.2064000000000306,
+                "success": true
+            },
+            "hash": "nA6iMQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372144,
+                "duration": 2.034900000000107,
+                "success": true
+            },
+            "hash": "zaWBcw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372144,
+                "duration": 1.6619000000000597,
+                "success": true
+            },
+            "hash": "p_IA5w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372145,
+                "duration": 2.499900000000025,
+                "success": true
+            },
+            "hash": "9oPR3Q"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372145,
+                "duration": 2.069300000000112,
+                "success": true
+            },
+            "hash": "9lVH"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=clubs,precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=clubs,precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372146,
+                "duration": 1.6867000000002008,
+                "success": true
+            },
+            "hash": "_KsPdQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372146,
+                "duration": 2.429499999999962,
+                "success": true
+            },
+            "hash": "1HwEOQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372147,
+                "duration": 1.6462999999998829,
+                "success": true
+            },
+            "hash": "TwmTdw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372147,
+                "duration": 1.9123999999999342,
+                "success": true
+            },
+            "hash": "avmNYg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372148,
+                "duration": 1.5211000000001604,
+                "success": true
+            },
+            "hash": "bzWBuQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372148,
+                "duration": 1.148200000000088,
+                "success": true
+            },
+            "hash": "8gIurw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372149,
+                "duration": 1.884999999999991,
+                "success": true
+            },
+            "hash": "cwJawA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372149,
+                "duration": 1.5074999999999363,
+                "success": true
+            },
+            "hash": "ch3pGQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372149,
+                "duration": 1.9332999999999174,
+                "success": true
+            },
+            "hash": "b88iRQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372150,
+                "duration": 1.569400000000087,
+                "success": true
+            },
+            "hash": "vCK9Og"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372150,
+                "duration": 1.1924000000001342,
+                "success": true
+            },
+            "hash": "eOyp4A"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372150,
+                "duration": 2.297700000000077,
+                "success": true
+            },
+            "hash": "MSUtoQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372151,
+                "duration": 1.8665000000000873,
+                "success": true
+            },
+            "hash": "Z8lhvw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds, precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds, precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372151,
+                "duration": 2.2830999999998767,
+                "success": true
+            },
+            "hash": "_KsPdQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372152,
+                "duration": 1.8647000000000844,
+                "success": true
+            },
+            "hash": "1HwEOQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372152,
+                "duration": 1.4688000000001011,
+                "success": true
+            },
+            "hash": "TwmTdw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372153,
+                "duration": 1.8863999999998668,
+                "success": true
+            },
+            "hash": "avmNYg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372153,
+                "duration": 1.4692000000000007,
+                "success": true
+            },
+            "hash": "bzWBuQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372154,
+                "duration": 1.8331000000000586,
+                "success": true
+            },
+            "hash": "8gIurw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372154,
+                "duration": 1.4696000000001277,
+                "success": true
+            },
+            "hash": "cwJawA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372154,
+                "duration": 1.116700000000037,
+                "success": true
+            },
+            "hash": "ch3pGQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372155,
+                "duration": 1.8269000000000233,
+                "success": true
+            },
+            "hash": "b88iRQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372155,
+                "duration": 1.4681000000000495,
+                "success": true
+            },
+            "hash": "vCK9Og"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372155,
+                "duration": 1.8027999999999338,
+                "success": true
+            },
+            "hash": "eOyp4A"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372156,
+                "duration": 1.447400000000016,
+                "success": true
+            },
+            "hash": "MSUtoQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372156,
+                "duration": 1.0954999999999018,
+                "success": true
+            },
+            "hash": "Z8lhvw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=diamonds,precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=diamonds,precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372157,
+                "duration": 2.1101999999998498,
+                "success": true
+            },
+            "hash": "ksQlOQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372157,
+                "duration": 1.7562000000000353,
+                "success": true
+            },
+            "hash": "mz29vg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372157,
+                "duration": 2.125400000000127,
+                "success": true
+            },
+            "hash": "Z0th"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372158,
+                "duration": 1.7753000000000156,
+                "success": true
+            },
+            "hash": "4zdJEg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372158,
+                "duration": 1.137599999999793,
+                "success": true
+            },
+            "hash": "FoYvQA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372159,
+                "duration": 2.0390000000002146,
+                "success": true
+            },
+            "hash": "nL9XtQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372159,
+                "duration": 1.6784999999999854,
+                "success": true
+            },
+            "hash": "OCCO5w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372159,
+                "duration": 2.118400000000065,
+                "success": true
+            },
+            "hash": "KcJZtg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372160,
+                "duration": 1.7555999999999585,
+                "success": true
+            },
+            "hash": "8NGrgQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372160,
+                "duration": 1.3712000000000444,
+                "success": true
+            },
+            "hash": "_u6YKA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372161,
+                "duration": 2.2293999999999414,
+                "success": true
+            },
+            "hash": "z1hBLg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372161,
+                "duration": 1.8329999999998563,
+                "success": true
+            },
+            "hash": "3ScOgw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372162,
+                "duration": 2.170799999999872,
+                "success": true
+            },
+            "hash": "c3JNvQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts, precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts, precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372162,
+                "duration": 1.7540000000001328,
+                "success": true
+            },
+            "hash": "ksQlOQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372162,
+                "duration": 1.2933000000000447,
+                "success": true
+            },
+            "hash": "mz29vg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372163,
+                "duration": 3.059400000000096,
+                "success": true
+            },
+            "hash": "Z0th"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372163,
+                "duration": 2.686300000000074,
+                "success": true
+            },
+            "hash": "4zdJEg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372164,
+                "duration": 3.084100000000035,
+                "success": true
+            },
+            "hash": "FoYvQA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372165,
+                "duration": 1.7934000000000196,
+                "success": true
+            },
+            "hash": "nL9XtQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372166,
+                "duration": 1.2049000000001797,
+                "success": true
+            },
+            "hash": "OCCO5w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372166,
+                "duration": 1.8983999999998105,
+                "success": true
+            },
+            "hash": "KcJZtg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372166,
+                "duration": 1.5229999999999109,
+                "success": true
+            },
+            "hash": "8NGrgQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372167,
+                "duration": 1.8887999999999465,
+                "success": true
+            },
+            "hash": "_u6YKA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372167,
+                "duration": 1.5235999999999876,
+                "success": true
+            },
+            "hash": "z1hBLg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372168,
+                "duration": 1.1474000000000615,
+                "success": true
+            },
+            "hash": "3ScOgw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372168,
+                "duration": 1.8936999999998534,
+                "success": true
+            },
+            "hash": "c3JNvQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=hearts,precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=hearts,precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372168,
+                "duration": 1.52150000000006,
+                "success": true
+            },
+            "hash": "slPaNg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372169,
+                "duration": 2.552500000000009,
+                "success": true
+            },
+            "hash": "a-BchA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372169,
+                "duration": 2.1995999999999185,
+                "success": true
+            },
+            "hash": "l7_g7A"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372169,
+                "duration": 1.8188000000000102,
+                "success": true
+            },
+            "hash": "MmttRQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372170,
+                "duration": 2.7025000000001,
+                "success": true
+            },
+            "hash": "Hk9iyw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372170,
+                "duration": 2.3425999999999476,
+                "success": true
+            },
+            "hash": "zYsbVQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372171,
+                "duration": 2.016700000000128,
+                "success": true
+            },
+            "hash": "jIQwoA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372172,
+                "duration": 1.5619999999998981,
+                "success": true
+            },
+            "hash": "3PFjjw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372172,
+                "duration": 1.1705000000001746,
+                "success": true
+            },
+            "hash": "XCpqFQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372173,
+                "duration": 1.8606999999999516,
+                "success": true
+            },
+            "hash": "ak14jQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372173,
+                "duration": 1.4932000000001153,
+                "success": true
+            },
+            "hash": "SZhXpQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372173,
+                "duration": 1.8525999999999385,
+                "success": true
+            },
+            "hash": "XtT3Og"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372174,
+                "duration": 1.4927999999999884,
+                "success": true
+            },
+            "hash": "ZhqNBw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades, precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades, precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372174,
+                "duration": 1.1271999999999025,
+                "success": true
+            },
+            "hash": "slPaNg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=2.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372174,
+                "duration": 1.9338999999999942,
+                "success": true
+            },
+            "hash": "a-BchA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=2.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=2.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=3.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372175,
+                "duration": 1.5763999999999214,
+                "success": true
+            },
+            "hash": "l7_g7A"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=3.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=3.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=4.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372175,
+                "duration": 2.559600000000046,
+                "success": true
+            },
+            "hash": "MmttRQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=4.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=4.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=5.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372176,
+                "duration": 2.1357000000000426,
+                "success": true
+            },
+            "hash": "Hk9iyw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=5.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=5.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=6.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372176,
+                "duration": 1.7591999999999643,
+                "success": true
+            },
+            "hash": "zYsbVQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=6.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=6.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=7.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372176,
+                "duration": 2.4677999999998974,
+                "success": true
+            },
+            "hash": "jIQwoA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=7.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=7.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=8.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372177,
+                "duration": 1.5108999999999924,
+                "success": true
+            },
+            "hash": "3PFjjw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=8.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=8.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=9.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372178,
+                "duration": 1.8350000000000364,
+                "success": true
+            },
+            "hash": "XCpqFQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=9.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=9.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=a.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372178,
+                "duration": 1.4733000000001084,
+                "success": true
+            },
+            "hash": "ak14jQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=a.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=a.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=j.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372178,
+                "duration": 1.114699999999857,
+                "success": true
+            },
+            "hash": "SZhXpQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=j.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=j.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372179,
+                "duration": 1.6616999999998825,
+                "success": true
+            },
+            "hash": "XtT3Og"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=q.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/cards",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372179,
+                "duration": 1.3004000000000815,
+                "success": true
+            },
+            "hash": "ZhqNBw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/cards/suits=spades,precedence=q.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/cards/suits=spades,precedence=q.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372180,
+                "duration": 1.7211999999999534,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/10.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372180,
+                "duration": 2.253800000000183,
+                "success": true
+            },
+            "hash": "5TGmkQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/10.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/10.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/100.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372180,
+                "duration": 1.7890000000002146,
+                "success": true
+            },
+            "hash": "EKyAKw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/100.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/100.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/10k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372181,
+                "duration": 2.3260999999999967,
+                "success": true
+            },
+            "hash": "IgraPw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/10k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/10k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/1k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372181,
+                "duration": 1.924199999999928,
+                "success": true
+            },
+            "hash": "2vAo"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/1k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/1k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/2k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372181,
+                "duration": 5.034599999999955,
+                "success": true
+            },
+            "hash": "zwldRg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/2k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/2k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/50.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372182,
+                "duration": 4.50610000000006,
+                "success": true
+            },
+            "hash": "PfNBGw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/50.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/50.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/500.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372182,
+                "duration": 3.9961000000000695,
+                "success": true
+            },
+            "hash": "Gdah8g"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/500.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/500.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/chips/5k.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/chips",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372183,
+                "duration": 4.42229999999995,
+                "success": true
+            },
+            "hash": "hPJgIg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/chips/5k.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/chips/5k.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/leaderboardbg.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372184,
+                "duration": 3.699700000000121,
+                "success": true
+            },
+            "hash": "2tBCeQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/leaderboardbg.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/leaderboardbg.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372186,
+                "duration": 1.7101000000000113,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/home.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372186,
+                "duration": 2.073599999999942,
+                "success": true
+            },
+            "hash": "UEz6Xg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/home.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/home.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/info.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372187,
+                "duration": 1.617200000000139,
+                "success": true
+            },
+            "hash": "LNJEAw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/info.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/info.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/menu.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372187,
+                "duration": 2.316000000000031,
+                "success": true
+            },
+            "hash": "h7yy8g"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/menu.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/menu.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/menuclosebtn.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372188,
+                "duration": 1.9445000000000618,
+                "success": true
+            },
+            "hash": "6lIh2Q"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/menuclosebtn.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/menuclosebtn.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/music.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372188,
+                "duration": 1.932800000000043,
+                "success": true
+            },
+            "hash": "Ge_P"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/music.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/music.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/music_off.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372188,
+                "duration": 3.0299999999999727,
+                "success": true
+            },
+            "hash": "5r4pkA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/music_off.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/music_off.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/sound.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372189,
+                "duration": 2.5999000000001615,
+                "success": true
+            },
+            "hash": "ydm2JA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/sound.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/sound.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/menupopup/sound_off.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/menupopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372190,
+                "duration": 5.901499999999942,
+                "success": true
+            },
+            "hash": "PDyy7Q"
+        },
+        "D:/Job/pixi-project/public/assets/assets/menupopup/sound_off.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/menupopup/sound_off.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372190,
+                "duration": 1.477200000000039,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/banner.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372190,
+                "duration": 6.653999999999996,
+                "success": true
+            },
+            "hash": "pK-XDg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/banner.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/banner.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/blackjackpopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372191,
+                "duration": 7.405399999999872,
+                "success": true
+            },
+            "hash": "jVf6tA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/blackjackpopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/blackjackpopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/blackjack_insurance.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372193,
+                "duration": 6.025499999999965,
+                "success": true
+            },
+            "hash": "V3uGKQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/blackjack_insurance.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/blackjack_insurance.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/burstpopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372194,
+                "duration": 4.546900000000051,
+                "success": true
+            },
+            "hash": "mFc62w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/burstpopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/burstpopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/loosepopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372196,
+                "duration": 6.889799999999923,
+                "success": true
+            },
+            "hash": "sHKe"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/loosepopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/loosepopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/noblackjack_insurance.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372197,
+                "duration": 5.75610000000006,
+                "success": true
+            },
+            "hash": "oWFJJw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/noblackjack_insurance.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/noblackjack_insurance.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/pushpopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372199,
+                "duration": 3.998299999999972,
+                "success": true
+            },
+            "hash": "hX2WvQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/pushpopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/pushpopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/surrenderpopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372200,
+                "duration": 2.798000000000002,
+                "success": true
+            },
+            "hash": "n8lV_A"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/surrenderpopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/surrenderpopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/popups/wonpopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/popups",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372201,
+                "duration": 1.6524000000001706,
+                "success": true
+            },
+            "hash": "LecF2A"
+        },
+        "D:/Job/pixi-project/public/assets/assets/popups/wonpopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/popups/wonpopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/shoppopup": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372202,
+                "duration": 0.47299999999995634,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/shoppopup/cancelbutton.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/shoppopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372202,
+                "duration": 3.5183999999999287,
+                "success": true
+            },
+            "hash": "HHBqYA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/shoppopup/cancelbutton.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/shoppopup/cancelbutton.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/shoppopup/closebutton.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/shoppopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372203,
+                "duration": 4.458899999999858,
+                "success": true
+            },
+            "hash": "Frt6Aw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/shoppopup/closebutton.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/shoppopup/closebutton.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/shoppopup/extracoinspopup.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/shoppopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372203,
+                "duration": 4.079600000000028,
+                "success": true
+            },
+            "hash": "rst2kw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/shoppopup/extracoinspopup.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/shoppopup/extracoinspopup.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/shoppopup/shopbutton.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/shoppopup",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372206,
+                "duration": 1.8640000000000327,
+                "success": true
+            },
+            "hash": "eB51SA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/shoppopup/shopbutton.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/shoppopup/shopbutton.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/table": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372206,
+                "duration": 0.4295000000001892,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/table/chips_zone.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/table",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372206,
+                "duration": 2.2917999999999665,
+                "success": true
+            },
+            "hash": "F04xfQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/table/chips_zone.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/table/chips_zone.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/table/table.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/table",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372206,
+                "duration": 2.3511000000000877,
+                "success": true
+            },
+            "hash": "LAOPqQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/table/table.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/table/table.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/table/table_text.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/table",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372207,
+                "duration": 2.2211999999999534,
+                "success": true
+            },
+            "hash": "9AnhhQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/table/table_text.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/table/table_text.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372208,
+                "duration": 0.9800999999999931,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/balance.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372208,
+                "duration": 1.8661999999999352,
+                "success": true
+            },
+            "hash": "RloGww"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/balance.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/balance.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/betholder.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372208,
+                "duration": 3.8657999999998083,
+                "success": true
+            },
+            "hash": "LoaGfA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/betholder.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/betholder.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/cancelbutton.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372209,
+                "duration": 4.034200000000055,
+                "success": true
+            },
+            "hash": "ngWWTg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/cancelbutton.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/cancelbutton.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/clear.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372209,
+                "duration": 3.564300000000003,
+                "success": true
+            },
+            "hash": "xA-5vQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/clear.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/clear.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/close_button.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372210,
+                "duration": 3.8473999999998796,
+                "success": true
+            },
+            "hash": "Frt6Aw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/close_button.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/close_button.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/greenhover.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372212,
+                "duration": 1.7593999999999141,
+                "success": true
+            },
+            "hash": "-YeULA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/greenhover.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/greenhover.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/greennormal.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372212,
+                "duration": 2.1423999999999523,
+                "success": true
+            },
+            "hash": "mvfTCQ"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/greennormal.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/greennormal.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/hit.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372213,
+                "duration": 1.8579999999999472,
+                "success": true
+            },
+            "hash": "9LGeDw"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/hit.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/hit.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/leaderboard.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372213,
+                "duration": 1.5217999999999847,
+                "success": true
+            },
+            "hash": "Vl3ibA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/leaderboard.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/leaderboard.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/playon.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372213,
+                "duration": 1.8554999999998927,
+                "success": true
+            },
+            "hash": "JO_W-w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/playon.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/playon.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/pointsholder.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372214,
+                "duration": 1.5356999999999061,
+                "success": true
+            },
+            "hash": "OMs6"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/pointsholder.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/pointsholder.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/rebet.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372214,
+                "duration": 1.8112999999998465,
+                "success": true
+            },
+            "hash": "GAgXdA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/rebet.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/rebet.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/redhover.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372215,
+                "duration": 1.799199999999928,
+                "success": true
+            },
+            "hash": "zzqA4w"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/redhover.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/redhover.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/rednormal.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372215,
+                "duration": 1.4540999999999258,
+                "success": true
+            },
+            "hash": "U3X-hg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/rednormal.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/rednormal.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/shopbutton.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372215,
+                "duration": 4.6766999999999825,
+                "success": true
+            },
+            "hash": "X6cXKA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/shopbutton.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/shopbutton.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/stand.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372216,
+                "duration": 4.28690000000006,
+                "success": true
+            },
+            "hash": "LfGWTg"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/stand.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/stand.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/assets/ui/surrender.png": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/assets/ui",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372216,
+                "duration": 4.972599999999829,
+                "success": true
+            },
+            "hash": "q91tzA"
+        },
+        "D:/Job/pixi-project/public/assets/assets/ui/surrender.png": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/assets/ui/surrender.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds": {
+            "isFolder": true,
+            "parent": "D:/Job/pixi-project/raw-assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372216,
+                "duration": 4.636299999999892,
+                "success": true
+            }
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/backgroundmusic.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372216,
+                "duration": 5.374799999999823,
+                "success": true
+            },
+            "hash": "EwWd-w"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/backgroundmusic.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/backgroundmusic.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/carddealing.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372220,
+                "duration": 2.4481000000000677,
+                "success": true
+            },
+            "hash": "URO7XA"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/carddealing.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/carddealing.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/cardflip.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372221,
+                "duration": 1.891700000000128,
+                "success": true
+            },
+            "hash": "LFXt6g"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/cardflip.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/cardflip.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/chipbet.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372221,
+                "duration": 2.143299999999954,
+                "success": true
+            },
+            "hash": "y5ArsQ"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/chipbet.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/chipbet.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/chipscleared.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372221,
+                "duration": 1.7760000000000673,
+                "success": true
+            },
+            "hash": "ZsE1UA"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/chipscleared.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/chipscleared.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/doubleorsplit.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372222,
+                "duration": 1.898200000000088,
+                "success": true
+            },
+            "hash": "157_1w"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/doubleorsplit.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/doubleorsplit.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/loosingsound.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372223,
+                "duration": 1.2308000000000447,
+                "success": true
+            },
+            "hash": "5j00MA"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/loosingsound.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/loosingsound.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/surrendersound.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372223,
+                "duration": 0.8663000000001375,
+                "success": true
+            },
+            "hash": "-_xy5A"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/surrendersound.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/surrendersound.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "D:/Job/pixi-project/raw-assets/sounds/winningsound.ogg": {
+            "isFolder": false,
+            "parent": "D:/Job/pixi-project/raw-assets/sounds",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1747859372223,
+                "duration": 0.501399999999876,
+                "success": true
+            },
+            "hash": "y9dtzg"
+        },
+        "D:/Job/pixi-project/public/assets/sounds/winningsound.ogg": {
+            "isFolder": false,
+            "transformParent": "D:/Job/pixi-project/raw-assets/sounds/winningsound.ogg",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        }
+    }
+}
