@@ -21,7 +21,8 @@ export abstract class Scene {
             
             } 
             else {
-                this.mainBackground = new BackgroundSprite(Globals.resources.background, window.innerWidth, window.innerHeight);
+                console.log(Globals.resources,);
+                this.mainBackground = new BackgroundSprite(Globals.resources.GameBG , window.innerWidth, window.innerHeight);
                 console.log(this.mainBackground);
                 
               }

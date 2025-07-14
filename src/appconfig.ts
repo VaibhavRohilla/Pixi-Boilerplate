@@ -13,7 +13,7 @@ export const config = {
 	logicalHeight: 1080,
 	
 	/** Default background color for the application */
-	backgroundColor: 0x1099bb,
+	backgroundColor: 0x000000,
 	
 	/** Current scale factor based on screen size */
 	scaleFactor: 1,

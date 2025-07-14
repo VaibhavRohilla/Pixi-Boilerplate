@@ -101,7 +101,7 @@ export class Game {
       loadingBarOptions: {
         width: 400,
         height: 40,
-        backgroundColor: 0x333333,
+        backgroundColor: 0x000000,
         fillColor: 0x00aaff,
         textColor: 0xffffff
       },
@@ -116,7 +116,7 @@ export class Game {
       }
     });
 
-    this.app.stage.addChild(this.loadingScene); 
+    // this.app.stage.addChild(this.loadingScene); 
     console.log("Loading scene added to stage");
 
     console.log("Starting loading process...");

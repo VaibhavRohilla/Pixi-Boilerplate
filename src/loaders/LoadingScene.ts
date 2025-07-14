@@ -1,6 +1,6 @@
 import { Container, Text, TextStyle } from 'pixi.js';
 import LoadingManager, { LoadingProgress } from './LoadingManager';
-import LoadingBar from '../ui/LoadingBar';
+import LoadingBar from './LoadingBar';
 import gsap from 'gsap';
 
 export interface LoadingSceneOptions {
