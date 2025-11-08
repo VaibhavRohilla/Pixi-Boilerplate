@@ -1,0 +1,49 @@
+{
+  "buildEntry": "src/app.ts",
+  "buildOutput": "build",
+  "viewJsonMerge": [
+    {
+      "source": [
+        "src/assets/viewJsons/*.json"
+      ],
+      "output": "res/viewJsons/gameView.json"
+    }
+  ],
+  "copier": [
+    {
+      "source": "src/assets/images",
+      "output": "res/images"
+    },
+    {
+      "source": "src/assets/manifest",
+      "output": "res/manifest"
+    },
+    {
+      "source": "public",
+      "output": ""
+    }
+  ],
+  "assetList": {
+    "files": [
+      {
+        "source": [
+          "src/assets/images/gameplay"
+        ],
+        "output": "res/assetLists/gameplayAssetList.json"
+      }
+    ],
+    "filePathPrefixToTrim": "src\\"
+  },
+  "audio": {
+    "source": "src/assets/audio/",
+    "output": "res/sounds/audiosprite",
+    "pathToAppendInAudioSprite": "../sounds/audioSprite"
+  },
+  "pixiManifest": {
+    "baseDir": "res",
+    "output": "res/manifest/manifest.json",
+    "bundle": "app"
+  }
+}
+
+

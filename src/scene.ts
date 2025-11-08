@@ -1,7 +1,8 @@
-import { Container} from "pixi.js";
+import { Container } from "pixi.js";
 import { config } from "./appconfig";
 import { BackgroundGraphic, BackgroundSprite } from "./background";
 import { Globals } from "./globals";
+import { logger } from "./utils/logger";
 
 export abstract class Scene {
 
@@ -14,18 +15,16 @@ export abstract class Scene {
     private mainBackground: BackgroundGraphic | BackgroundSprite;
 
 
-    constructor(isGraphics : boolean) {
+    constructor(isGraphics: boolean) {
         this.sceneContainer = new Container();
         if (isGraphics) {
-            this.mainBackground = new BackgroundGraphic(config.logicalWidth, config.logicalHeight, 0xFfffff);
-            
-            } 
-            else {
-                this.mainBackground = new BackgroundSprite(Globals.resources.background, window.innerWidth, window.innerHeight);
-                console.log(this.mainBackground);
-                
-              }
-                this.addChildToFullScene(this.mainBackground);
+            this.mainBackground = new BackgroundGraphic(config.logicalWidth, config.logicalHeight, 0x00000);
+        }
+        else {
+            this.mainBackground = new BackgroundSprite(Globals.resources.background, window.innerWidth, window.innerHeight);
+            logger.debug("MainBackground created", this.mainBackground);
+        }
+        this.addChildToFullScene(this.mainBackground);
         this.mainContainer = new Container();
 
         this.resetMainContainer();
@@ -50,16 +49,17 @@ export abstract class Scene {
         this.mainContainer.y = config.minTopY;
         this.mainContainer.scale.set(config.minScaleFactor);
     }
+
     addToScene(obj: any) {
         this.sceneContainer.addChild(obj);
 
     }
     resize(): void {
+        // Stretch background to the full current screen size
+        const w = Globals.app?.screen.width ?? window.innerWidth;
+        const h = Globals.app?.screen.height ?? window.innerHeight;
+        this.mainBackground.resetBg(w, h);
         this.resetMainContainer();
-        // this.mainBackground.resetBg(window.innerWidth, window.innerHeight);
-        this.mainBackground.width =  window.innerWidth;
-        this.mainBackground.height =  window.innerHeight;
-
     }
 
     initScene(container: Container) {
@@ -70,16 +70,14 @@ export abstract class Scene {
     }
 
     addChildToFullScene(component: any) {
-        console.log("addChildToFullScene", component);
-        
+        logger.debug("addChildToFullScene", component);
+
         this.sceneContainer.addChild(component);
 
     }
     addChildToIndexFullScene(component: any, index: number) {
         this.sceneContainer.addChildAt(component, index);
     }
-
-
 
     abstract update(dt: number): void;
 

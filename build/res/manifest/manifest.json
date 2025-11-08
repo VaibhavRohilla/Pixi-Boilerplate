@@ -1,0 +1,21 @@
+{
+  "bundles": [
+    {
+      "name": "app",
+      "assets": [
+        {
+          "alias": [
+            "background",
+            "assets/background"
+          ],
+          "src": [
+            "assets/background.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -35,9 +35,6 @@ export class SceneManager {
 
     update(dt: number) {
        
-        if (Globals.gsap) {
-            Globals.gsap.ticker.tick();
-        }
 
         if (this.scene && this.scene.update) {
 			this.scene.update(dt);

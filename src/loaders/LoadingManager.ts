@@ -1,5 +1,6 @@
 import { Assets } from 'pixi.js';
 import { Howl } from 'howler';
+import { logger } from '../utils/logger';
 
 export interface AssetManifest {
   bundles: Array<{
@@ -43,7 +44,7 @@ export default class LoadingManager {
     try {
       // Ensure we're using the correct path
       const manifestUrl = new URL(manifestPath, window.location.href).pathname;
-      console.log(`Loading manifest from: ${manifestUrl}`);
+      logger.info(`Loading manifest from: ${manifestUrl}`);
       
       const response = await fetch(manifestUrl);
       
@@ -55,14 +56,14 @@ export default class LoadingManager {
       try {
         this.manifest = JSON.parse(text) as AssetManifest;
       } catch (error: any) {
-        console.error('Failed to parse manifest JSON. Content received:', text.substring(0, 200));
+        logger.error('Failed to parse manifest JSON. Content received: ' + text.substring(0, 200));
         throw new Error(`Invalid JSON in manifest: ${error.message}`);
       }
       
-      console.log('Manifest loaded successfully:', this.manifest);
+      logger.info('Manifest loaded successfully');
       return this.manifest;
     } catch (error) {
-      console.error('Failed to load asset manifest:', error);
+      logger.error('Failed to load asset manifest: ' + String(error));
       throw error;
     }
   }
@@ -73,7 +74,7 @@ export default class LoadingManager {
     }
     
     this.assetsBasePath = basePath;
-    console.log(`Initializing Assets with basePath: ${this.assetsBasePath}`);
+    logger.info(`Initializing Assets with basePath: ${this.assetsBasePath}`);
     
     try {
       await Assets.init({ 
@@ -94,12 +95,12 @@ export default class LoadingManager {
           return { name, srcPath, isSound };
         });
       } else {
-        console.warn('No bundles or assets found in manifest to prepare detailed info.');
+        logger.warn('No bundles or assets found in manifest to prepare detailed info.');
       }
       
-      console.log('Prepared detailed asset info:', this.detailedAssetInfo);
+      logger.info('Prepared detailed asset info');
     } catch (error) {
-      console.error('Error initializing assets or preparing detailed info:', error);
+      logger.error('Error initializing assets or preparing detailed info: ' + String(error));
       throw error;
     }
   }
@@ -113,7 +114,7 @@ export default class LoadingManager {
     const total = this.detailedAssetInfo.length;
     let loaded = 0;
     
-    console.log(`Starting to load ${total} assets...`);
+    logger.info(`Starting to load ${total} assets...`);
     
     const loadedAssetsMap: Record<string, any> = {};
     
@@ -126,33 +127,33 @@ export default class LoadingManager {
                            this.assetsBasePath + assetInfo.srcPath : 
                            this.assetsBasePath + '/' + assetInfo.srcPath;
 
-          console.log(`Loading sound with Howler: ${assetName} from ${soundUrl}`);
+          logger.info(`Loading sound with Howler: ${assetName} from ${soundUrl}`);
           const howl = await new Promise<Howl>((resolve, reject) => {
             const sound = new Howl({
               src: [soundUrl],
               preload: true,
               onload: () => {
-                console.log(`Howler loaded: ${assetName} (${soundUrl})`);
+                logger.info(`Howler loaded: ${assetName} (${soundUrl})`);
                 resolve(sound);
               },
               onloaderror: ( err) => {
-                console.error(`Howler onloaderror for ${assetName} (${soundUrl}):`, err);
+                logger.error(`Howler onloaderror for ${assetName} (${soundUrl}): ${String(err)}`);
                 reject(new Error(`Howler onloaderror: ${err} for ${soundUrl}`));
               },
               onplayerror: ( err) => {
-                console.error(`Howler onplayerror for ${assetName} (${soundUrl}):`, err);
+                logger.error(`Howler onplayerror for ${assetName} (${soundUrl}): ${String(err)}`);
               }
             });
           });
           loadedAssetsMap[assetName] = howl;
         } else {
-          console.log(`Loading asset with PIXI.Assets: ${assetName}`);
+          logger.info(`Loading asset with PIXI.Assets: ${assetName}`);
           const pixiAsset = await Assets.load(assetName);
           loadedAssetsMap[assetName] = pixiAsset;
         }
         
         loaded++;
-        console.log(`Loaded asset ${loaded}/${total}: ${assetName} (${assetInfo.isSound ? 'Sound' : 'PixiAsset'})`);
+        logger.info(`Loaded asset ${loaded}/${total}: ${assetName} (${assetInfo.isSound ? 'Sound' : 'PixiAsset'})`);
         
         if (this.onProgressCallback) {
           const progress = loaded / total;
@@ -160,10 +161,10 @@ export default class LoadingManager {
         }
       }
       
-      console.log('Loaded all assets:', loadedAssetsMap);
+      logger.info('Loaded all assets');
       return loadedAssetsMap;
     } catch (error) {
-      console.error('Error loading assets during loadAll:', error);
+      logger.error('Error loading assets during loadAll: ' + String(error));
       return loadedAssetsMap;
     }
   }

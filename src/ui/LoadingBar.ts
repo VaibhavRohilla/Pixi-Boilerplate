@@ -49,7 +49,7 @@ export default class LoadingBar extends Container {
       fill: this.options.textColor
     });
     
-    this.text = new Text({text: '0%', style});
+    this.text = new Text({text: '0%', style, resolution: window.devicePixelRatio || 1});
     this.text.anchor.set(0.5);
     this.text.position.set(this.options.width / 2, this.options.height / 2);
     this.addChild(this.text);
