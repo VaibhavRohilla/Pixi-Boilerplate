@@ -1,53 +1,56 @@
-# Pixi.js Game Project
+# Pixi-Boilerplate
 
-A modern web-based game built with Pixi.js v8, TypeScript, and Vite.
+Modern Pixi.js v8 + TypeScript boilerplate with esbuild, hot reload, custom asset pipeline, crisp rendering, and utility UI components.
 
-## Quick Start
+## Quick start (pnpm)
 
 ```bash
-# Install dependencies
-npm install
+# Install
+pnpm i
 
-# Start development server
-npm run dev
+# If you see “Ignored build scripts: esbuild”:
+pnpm approve-builds
 
-# Build for production
-npm run build
+# Dev (http://localhost:3000 with live reload)
+pnpm dev
+
+# Production build (outputs to build/)
+pnpm build
+
+# Regenerate assets/manifests only
+pnpm assets
 ```
 
-## Tech Stack
+## Features
 
-- **Pixi.js v8**: 2D graphics rendering
-- **TypeScript**: Type-safe development
-- **Vite**: Development & build tool
-- **GSAP**: Animations
-- **Howler.js**: Audio management
-- **AssetPack**: Asset optimization
+- **esbuild** dev + build with a lightweight dev server and WebSocket live reload
+- **Custom pipeline** driven by `build.config.json`:
+  - viewJsonMerge, copier, assetList, audio sprite (FFmpeg), Pixi manifest generation
+- **Crisp visuals**: DPR-aware rendering, autoDensity, roundPixels, DPR-aware text
+- **Robust resize**: portrait/landscape handling and DPR changes
+- **Colored logger**: INFO/WARN/DANGER/DEBUG with timestamps; production prints info only
+- **UI components**: loading bar, animated buttons (texture or graphics) powered by tweedle.js
 
-## Project Structure
+## Configure pipeline
+Edit `build.config.json`. Key fields:
+- `buildEntry`, `buildOutput`
+- `viewJsonMerge` (merge multiple JSONs to one)
+- `copier` (copy files/dirs into build output)
+- `assetList` (generate file lists)
+- `audio` (generate audiosprite; requires FFmpeg)
+- `pixiManifest` (scan built assets to create Pixi bundle manifest)
 
-```
-src/
-├── loaders/     # Asset loading
-├── ui/         # UI components
-├── main.ts     # Entry point
-├── scene.ts    # Base scene
-└── scenemanager.ts # Scene management
-```
+## Troubleshooting
+- pnpm warns “Ignored build scripts: esbuild” → run:
+  ```bash
+  pnpm approve-builds
+  ```
+- Audio sprite fails → install FFmpeg and retry; optionally `pnpm dlx audiosprite ...` or install globally.
+- Live reload blocked → allow WebSocket port 3001 in your firewall.
+- CSS/MIME errors in external servers (e.g., Live Server) → use `pnpm dev` or open `build/index.html` after `pnpm build`.
 
-## Scripts
-
-- `npm run dev`: Start dev server
-- `npm run build`: Build for production
-- `npm run preview`: Preview build
-- `npm run lint`: Run ESLint
-
-## Dependencies
-
-- pixi.js: ^8.0.0
-- gsap: ^3.13.0
-- howler: ^2.2.4
+## Tech
+- Pixi.js v8, TypeScript, esbuild, tweedle.js, howler
 
 ## License
-
-Private and proprietary. 
+Private and proprietary.

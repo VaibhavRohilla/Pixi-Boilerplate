@@ -1,6 +1,6 @@
 {
   "buildEntry": "src/app.ts",
-  "buildOutput": "build",
+  "buildOutput": "dist",
   "viewJsonMerge": [
     {
       "source": [
