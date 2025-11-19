@@ -9,7 +9,7 @@ import { WebSocketServer } from 'ws';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
-const outDir = path.join(root, 'build');
+const outDir = path.join(root, 'dist');
 const PORT = 3000;
 const WSPORT = 3001;
 
